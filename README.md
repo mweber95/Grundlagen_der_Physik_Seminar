@@ -2,6 +2,7 @@
 
 Dieses Projekt dient als begleitendes Material zum Seminar **„Grundlagen der Physik“**. Es umfasst eine Sammlung von **Rechenaufgaben**, **Wissensfragen** und **Multiple-Choice-Fragen** zu zentralen Themen der klassischen Physik. Ziel ist es, das physikalische Verständnis zu vertiefen und Studierenden eine interaktive Möglichkeit zur **selbstständigen Vorbereitung und Wiederholung** zu bieten.
 
+Hier geht es zu den Aufgaben: [Grundlagen der Physik - Seminar](https://mweber95.github.io/Grundlagen_der_Physik_Seminar/intro.html)
 ## Inhalte
 
 Die Aufgaben und Materialien decken folgende Themenbereiche ab:
