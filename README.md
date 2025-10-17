@@ -25,5 +25,3 @@ Das Projekt soll:
 ## Lizenz
 
 Grundlagen der Physik Seminar ist lizensiert durch die Creative Commons Public Licenses: CC-BY-NC-SA
-
-![Lizenz](docs/Abbildungen/Cc-by-nc-sa_euro_icon.png)
